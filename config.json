@@ -66,3 +66,6 @@
     "watch": true,
     "workers": true
 }
+
+
+ngrok config add-authtoken 2BfOzU9Gzfgmdy78BLkYih5I9ek_494F1BXymbgS19VJFNvSb
